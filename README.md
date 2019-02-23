@@ -1,0 +1,2 @@
+# CipherCoin
+CipherCoin Cryptocurrency
