@@ -1,0 +1,26 @@
+# /etc/conf.d/ciphercoind: config file for /etc/init.d/ciphercoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/ciphercoin/ciphercoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/ciphercoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/ciphercoind.pid"
+
+# Where to write ciphercoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/ciphercoind"
+
+# User and group to own ciphercoind process
+#BITCOIND_USER="ciphercoin"
+#BITCOIND_GROUP="ciphercoin"
+
+# Path to ciphercoind executable
+#BITCOIND_BIN="/usr/bin/ciphercoind"
+
+# Nice value to run ciphercoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

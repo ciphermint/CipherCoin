@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CipherCoin
+Comment=CipherCoin P2P Cryptocurrency
+Comment[fr]=CipherCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=CipherCoin, eşten eşe kriptografik sanal para birimi
+Exec=ciphercoin-qt %u
+Terminal=false
+Type=Application
+Icon=ciphercoin128
+MimeType=x-scheme-handler/ciphercoin;
+Categories=Office;Finance;
