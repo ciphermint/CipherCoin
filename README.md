@@ -8,26 +8,25 @@ CipherCoin is an open source crypto-currency focused on fast private transaction
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftX_.
 - Decentralized blockchain voting utilizing Masternode technology to form a DAO. The blockchain will distribute monthly treasury funds based on successful proposals submitted by the community and voted on by the DAO.
 
-More information at [ciphercoin.org](http://www.ciphercoin.org) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php?topic=1262920)
+More information at [ciphercoin.net](http://www.ciphercoin.net) Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=5133957.0)
 
 ### Coin Specs
 <table>
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoW Phase)</td><td>43,199,500 CIPH</td></tr>
+<tr><td>Max Coin Supply (PoW Phase)</td><td>10,000 CIPH</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
-<tr><td>Premine</td><td>60,000 CIPH*</td></tr>
+<tr><td>Premine</td><td>5,250,000 CIPH*</td></tr>
 </table>
 
-*60,000 CIPH Premine was burned in block [279917](http://www.presstab.pw/phpexplorer/CipherCoin/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
 
 ### Reward Distribution
 
 <table>
 <th colspan=4>Genesis Block</th>
 <tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th></tr>
-<tr><td>1</td><td>60,000 CIPH</td><td>Initial Pre-mine, burnt in block <a href="http://www.presstab.pw/phpexplorer/CipherCoin/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0">279917</a></td></tr>
+<tr><td>1</td><td>5,250,000 CIPH</td><td></a></td></tr>
 </table>
 
 ### PoW Rewards Breakdown
