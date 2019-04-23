@@ -42,3 +42,15 @@ More information at [ciphercoin.net](http://www.ciphercoin.net) Visit our ANN th
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes & Stakers</th>
 <tr><td>Phase 1</td><td>10,001-Infinite</td><td>5 CIPH</td><td>80% (4 CIPH)/20% (1 CIPH)</td></tr>
 </table>
+
+## Connect with us
+
+<center>
+<a href="https://github.com/ciphermint/CipherCoin"><img src = "https://user-images.githubusercontent.com/31733278/56586695-ce131880-65fd-11e9-8994-9ce4ac4ec85a.png" width="50" height="50" /></a>
+<a href="https://www.facebook.com/CipherCoin-CIPH-251243245786398"><img src = "https://user-images.githubusercontent.com/31733278/56587226-c99b2f80-65fe-11e9-86cb-5bd755f04e19.jpeg"  width="50" height="50" /><a/>  
+<a href="https://twitter.com/coin_cipher"><img src="https://user-images.githubusercontent.com/31733278/56587618-72e22580-65ff-11e9-8cb7-abba825b7860.png" width="50" height="45" /></a>
+  <a href="https://www.youtube.com/channel/UC0HpWe9dh2e8LK2orH1AWyg"><img src="https://user-images.githubusercontent.com/31733278/56587920-0287d400-6600-11e9-887d-ddb61beef9aa.png" width="50" height="50" / ></a>
+   <a href="https://t.me/ciphercoins" style="margin-left:55%" ><img src="https://user-images.githubusercontent.com/31733278/56589268-80e57580-6602-11e9-94d3-c69415354520.png" width="45" height="45" /></a>
+  <a href="https://www.reddit.com/user/CipherCoin"><img src="https://user-images.githubusercontent.com/31733278/56588267-a5405280-6600-11e9-8e72-b04e2339bbf2.png" width="40" height="40" style="padding-left:5%" /></a>
+   <a href="https://medium.com/@ciphercoin"><img src="https://user-images.githubusercontent.com/31733278/56588161-775b0e00-6600-11e9-960d-1dbbb9c2122f.png" width="40" height="45" /></a>
+  </center>  
