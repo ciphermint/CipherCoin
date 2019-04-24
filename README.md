@@ -43,7 +43,7 @@ More information at [ciphercoin.net](http://www.ciphercoin.net) Visit our ANN th
 <tr><td>Phase 1</td><td>10,001-Infinite</td><td>5 CIPH</td><td>80% (4 CIPH)/20% (1 CIPH)</td></tr>
 </table>
 
-## Connect with us
+## Follow us on
 
 <center>
 <a href="https://github.com/ciphermint/CipherCoin"><img src = "https://user-images.githubusercontent.com/31733278/56586695-ce131880-65fd-11e9-8994-9ce4ac4ec85a.png" width="50" height="50" /></a>
@@ -54,3 +54,5 @@ More information at [ciphercoin.net](http://www.ciphercoin.net) Visit our ANN th
    <a href="https://medium.com/@ciphercoin"><img src="https://user-images.githubusercontent.com/31733278/56634615-360a4300-6680-11e9-9277-61e0f1071260.png"  width="45" height="45" /></a>
   <a href="https://www.reddit.com/user/CipherCoin"><img src="https://user-images.githubusercontent.com/31733278/56634713-99947080-6680-11e9-994a-18d10f9a0bd5.png" width="45" height="45" /></a>
   </center>  
+  
+ For any Queries write us at <a href="support@ciphercoin.net">support@ciphercoin.net</a> 
