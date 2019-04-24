@@ -47,6 +47,8 @@ More information at [ciphercoin.net](http://www.ciphercoin.net) Visit our ANN th
 <tr><td>Phase 1</td><td>10,001-Infinite</td><td>5 CIPH</td><td>80% (4 CIPH)/20% (1 CIPH)</td></tr>
 </table>
 
+More information about <a href="http://ciphercoinexplorer.com/">Block Explorer</a> and <a href="https://www.ciphercoin.net/wp-content/uploads/2018/03/CipherCoin-Whitepaper-V-1.1.pdf">Whitepaper</a> are available here.
+
 ## Follow us on
 
 <center>
