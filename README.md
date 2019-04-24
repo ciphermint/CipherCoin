@@ -51,5 +51,5 @@ More information at [ciphercoin.net](http://www.ciphercoin.net) Visit our ANN th
 <a href="https://twitter.com/coin_cipher"><img src="https://user-images.githubusercontent.com/31733278/56587618-72e22580-65ff-11e9-8cb7-abba825b7860.png" width="50" height="45" /></a>
   <a href="https://www.youtube.com/channel/UC0HpWe9dh2e8LK2orH1AWyg"><img src="https://user-images.githubusercontent.com/31733278/56587920-0287d400-6600-11e9-887d-ddb61beef9aa.png" width="50" height="50" / ></a>
    <a href="https://t.me/ciphercoins" style="margin-left:55%" ><img src="https://user-images.githubusercontent.com/31733278/56589268-80e57580-6602-11e9-94d3-c69415354520.png" width="45" height="45" /></a>
-   <a href="https://medium.com/@ciphercoin"><img src="https://user-images.githubusercontent.com/31733278/56634341-453cc100-667f-11e9-9e04-3a45d6d859f1.png"  width="55" height="55" /></a>
+   <a href="https://medium.com/@ciphercoin"><img src="https://user-images.githubusercontent.com/31733278/56634615-360a4300-6680-11e9-9277-61e0f1071260.png"  width="45" height="45" /></a>
   </center>  
