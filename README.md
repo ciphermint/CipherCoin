@@ -65,6 +65,50 @@ CipherCoin's Distribution from premine is as follows:
 More information about <a href="http://ciphercoinexplorer.com/">Block Explorer</a> and <a href="https://www.ciphercoin.net/wp-content/uploads/2018/03/CipherCoin-Whitepaper-V-1.1.pdf">Whitepaper</a> are available here.
 
 
+### For More Information
+
+CipherMint Website
+
+<a href="https://www.ciphermint.io">https://www.ciphermint.io</a>
+
+CipherPool Website 
+
+<a href="https://www.Cipherpool.io">https://www.Cipherpool.io</a>
+
+CipherCoin website 
+
+<a href="https://www.Ciphercoin.net">https://www.Ciphercoin.net</a>
+
+CipherCoin Block Explorer
+
+<a href="http://www.ciphercoinexplorer.com">http://www.ciphercoinexplorer.com</a>
+
+CipherFoundation Website
+
+<a href="https://www.cipherfoundation.io">https://www.cipherfoundation.io</a>
+
+CipherNews Website 
+
+<a href="https://www.CipherNews.io">https://www.CipherNews.io</a>
+
+CipherEx Exchange Website 
+
+<a href="https://www.cipherex.io">https://www.cipherex.io</a>
+
+CipherNode Website
+
+<a href="https://www.ciphernode.io">https://www.ciphernode.io</a>
+
+CipherTrade Exchange Website
+
+<a href="https://www.ciphertrade.io">https://www.ciphertrade.io</a>
+
+CipherBet Website
+
+<a href="https://www.cipherbet.io">https://www.cipherbet.io</a>
+
+
+
 ## Follow us on
 
 <center>
