@@ -10,6 +10,8 @@ CipherCoin is an open source crypto-currency focused on fast private transaction
 
 More information at [ciphercoin.net](http://www.ciphercoin.net) Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=5133957.0)
 
+To know more about Ciphercoin Ecosystem, watch the video given below
+
 <div>
       <a href="https://www.youtube.com/watch?v=UbX3wqIOEEw"><img src="https://user-images.githubusercontent.com/31733278/56636569-cfd4ee80-6686-11e9-9b76-7d8710888d95.png" alt="IMAGE ALT TEXT" width="600" height="400" ></a>
  </div>
