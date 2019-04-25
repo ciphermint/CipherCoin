@@ -64,6 +64,14 @@ CipherCoin's Distribution from premine is as follows:
 
 More information about <a href="http://ciphercoinexplorer.com/">Block Explorer</a> and <a href="https://www.ciphercoin.net/wp-content/uploads/2018/03/CipherCoin-Whitepaper-V-1.1.pdf">Whitepaper</a> are available here.
 
+### Features
+
+* Instant Payouts
+* CipherCoin Wallet
+* Private Transactions
+* Global Payment Network
+
+
 
 ### For More Information
 
